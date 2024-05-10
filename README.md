@@ -28,8 +28,8 @@ O podcast vai falar sobre os avanços das IAs no mundo da tecnologia
 - Não quero que utilize nenhuma das palavras nessa lista: Javascript, programador
 - Não utilize a palavra back end no nome nem qualquer variação dela
 ```
-```bash
 
+```bash
 Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em inteligencias artificiais cujo o nome é "IArcanos: O Legado dos Algoritmos" e tem foco em tecnologia,  com o público alvo de iniciantes em tecnologos. O podcast deve ter um apresentador, o primeiro chamado iL3o enxerga um mundo em que as IAs irão auxiliar a humanidade mas teme que as IAs irão substituir a mão de obra humana.
 
 o formato do roteiro deve ser
@@ -55,16 +55,19 @@ o formato do roteiro deve ser
 ```
 
 ## 🚀 Resultados
+
 <p align="center">
 <img 
     src="./assets/Designer.jpeg"
     width="300"
 />
-</p>
-<p align="center">
-    preview do podcast
+    
 </p>
 
-<div align="center">
-    <audio src="output/Áudio-podcast.mp3" controls title="Podcast"></audio>
-</div>
+<p align="center">
+    <a href=https://github.com/do-Lopes/lab-natty-or-not/blob/main/output/%C3%81udio-podcast.mp3>Áudio do podcast</a>
+</p>
+    
+
+
+
