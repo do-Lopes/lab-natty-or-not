@@ -1,51 +1,70 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Podcast IArcanos: O Legado dos Algoritmos
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Uma jornada fascinante pelo universo das inteligências artificiais, focado especialmente em iniciantes em tecnologia. Apresentado por iL3o, o programa explora como as IAs estão revolucionando a programação, simplificando tarefas e proporcionando novas possibilidades para desenvolvedores de todos os níveis.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- [ChatGPT](https://chat.openai.com/): Geração de ideias e roteiro.
+- [Microsoft Designer](https://designer.microsoft.com/image-creator): Criação da imagem de capa utilizada.
+- [Eleven Labs](https://elevenlabs.io/): Criação do audio do podcast.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+As ideias de título e o roteiro foram feitos a partir de prompts utilizados no ChatGPT
+```bash
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em tecnologia e eu gostaria de uma ajuda sua para criar 5 sugestões
+de nomes criativos para um podcast de IAs feito por IAs, e que tenha algum trocadilho nerd no nome
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+O podcast vai falar sobre os avanços das IAs no mundo da tecnologia
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+{REGRAS}
+
+- O nome deve ser enxuto, um nome e um subtítulo
+- O nome tenha algum trocadilho nerd com nomes de franquias conhecidas como harry potter, star wars ou senhor dos anéis
+- O nome deve conter alguma palavra forte que remeta a back end
+
+{REGRAS NEGATIVAS}
+
+- Não quero que o título contenha palavras em inglês
+- Não quero que utilize nenhuma das palavras nessa lista: Javascript, programador
+- Não utilize a palavra back end no nome nem qualquer variação dela
+```
+```bash
+
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em inteligencias artificiais cujo o nome é "IArcanos: O Legado dos Algoritmos" e tem foco em tecnologia,  com o público alvo de iniciantes em tecnologos. O podcast deve ter um apresentador, o primeiro chamado iL3o enxerga um mundo em que as IAs irão auxiliar a humanidade mas teme que as IAs irão substituir a mão de obra humana.
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[ASSUNTO 1]
+[ASSUNTO 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
+- no bloco [ASSUNTO 1] substitua por um assunto sobre programação utilizando as IAs
+- no bloco [ASSUNTO 2] substitua por o futuro mais distante da humanidade com as IAs
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou iL3o esse foi o IArcanos dessa semana"
+- use termos de fácil explicação
+- O podcast vai ser apresentado  por uma pessoa chamada iL3o
+- O podcast deve ter tamanho médio
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
 ```
 
-### Exemplos e Insigths
+## 🚀 Resultados
+<p align="center">
+<img 
+    src="./assets/Designer.jpeg"
+    width="300"
+/>
+</p>
+<p align="center">
+    preview do podcast
+</p>
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+<div align="center">
+    <audio src="output/Áudio-podcast.mp3" controls title="Podcast"></audio>
+</div>
